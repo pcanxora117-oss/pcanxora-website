@@ -15,12 +15,9 @@ How to Deploy Instantly:
    - Double-click index.html to open in any browser.
 
 Company Info:
-- Name: PCA NXORA Company
-- Tagline: Learn • Grow • Succeed
-- Core Domains: Python Programming, Cybersecurity, Artificial Intelligence
-- CEO & Founder: Anupriya Kumar
-- Co-Founder: Ruba Rajavel
-- Managing Director: Munikrishna Kumar
-- Location: Krishnagiri, Tamil Nadu, India
-- Email: pcanxora117@gmail.com
-- Contact: +91 7812887522, +91 6384630322
+Company Name: PCA NXORA Company
+Tagline: Learn • Grow • Succeed
+Managing Director: Munikrishna Kumar
+Location: Krishnagiri, Tamil Nadu, India
+Email: pcanxoratech@gmail.com
+Contact: +91 9380016196
